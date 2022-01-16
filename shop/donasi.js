@@ -21,7 +21,7 @@ return `DONASI BISA VIA BANK / E-MONEY
 3. DANA
 	ㅁ 0857 1508 6312
 	
-E-MONEY atas nama HA*DI 
+E-MONEY atas nama HA*DI, BANK atas nama RI****DI
 `
 	}
 
